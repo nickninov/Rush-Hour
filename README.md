@@ -1,2 +1,3 @@
 # Rush-Hour
-Rush Hour React Native Application
+
+My first React Native Application that I made with two friends from University of West London
